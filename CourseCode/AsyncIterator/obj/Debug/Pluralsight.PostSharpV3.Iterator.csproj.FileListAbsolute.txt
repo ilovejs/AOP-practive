@@ -1,0 +1,10 @@
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\bin\Debug\Pluralsight.PostSharpV3.Iterator.exe.config
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\bin\Debug\Pluralsight.PostSharpV3.Iterator.exe
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\bin\Debug\Pluralsight.PostSharpV3.Iterator.pdb
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\bin\Debug\PostSharp.dll
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\bin\Debug\PostSharp.xml
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\obj\Debug\Pluralsight.PostSharpV3.Iterator.csprojResolveAssemblyReference.cache
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\obj\Debug\Pluralsight.PostSharpV3.Iterator.exe
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\obj\Debug\Pluralsight.PostSharpV3.Iterator.pdb
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\bin\Debug\Pluralsight.PostSharpV3.Iterator.pssym
+H:\What's New in PostSharp v3\src\6-postsharp3-new-features-m6-exercise-files\Pluralsight.PostSharpV3.Iterator\obj\Debug\Pluralsight.PostSharpV3.Iterator.exe.postsharp

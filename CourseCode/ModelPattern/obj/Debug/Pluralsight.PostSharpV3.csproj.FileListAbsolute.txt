@@ -1,0 +1,11 @@
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\Pluralsight.PostSharpV3.exe.config
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\Pluralsight.PostSharpV3.exe
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\Pluralsight.PostSharpV3.pdb
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\PostSharp.dll
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\PostSharp.Patterns.Diagnostics.dll
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\PostSharp.xml
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\bin\Debug\Pluralsight.PostSharpV3.pssym
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\obj\Debug\Pluralsight.PostSharpV3.csprojResolveAssemblyReference.cache
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\obj\Debug\Pluralsight.PostSharpV3.exe
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\obj\Debug\Pluralsight.PostSharpV3.pdb
+H:\What's New in PostSharp v3\src\4-postsharp3-new-features-m4-exercise-files\obj\Debug\Pluralsight.PostSharpV3.exe.postsharp

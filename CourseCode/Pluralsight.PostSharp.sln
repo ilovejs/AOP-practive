@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{09CBE6B3-53E3-49BD-B6D7-9CCDA306B54F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralsight.PostSharpV3.CodeContract", "CodeContract\Pluralsight.PostSharpV3\Pluralsight.PostSharpV3.CodeContract.csproj", "{C75F76F1-E689-4D7A-91EE-B05713CB4DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralsight.PostSharpV3.Iterator", "AsyncIterator\Pluralsight.PostSharpV3.Iterator.csproj", "{54B20B79-721C-49CA-9D9A-9A442A8AFAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralsight.PostSharpV3.ModelPattern", "ModelPattern\Pluralsight.PostSharpV3.ModelPattern.csproj", "{E1E69DDD-278D-4954-9EAA-40ADA595E530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralsight.PostSharpV3.Threading", "Threading\Pluralsight.PostSharpV3.Threading\Pluralsight.PostSharpV3.Threading.csproj", "{B4564EAF-0371-467F-B312-9995BB14040E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75F76F1-E689-4D7A-91EE-B05713CB4DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75F76F1-E689-4D7A-91EE-B05713CB4DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75F76F1-E689-4D7A-91EE-B05713CB4DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75F76F1-E689-4D7A-91EE-B05713CB4DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B20B79-721C-49CA-9D9A-9A442A8AFAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B20B79-721C-49CA-9D9A-9A442A8AFAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B20B79-721C-49CA-9D9A-9A442A8AFAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B20B79-721C-49CA-9D9A-9A442A8AFAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E69DDD-278D-4954-9EAA-40ADA595E530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E69DDD-278D-4954-9EAA-40ADA595E530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E69DDD-278D-4954-9EAA-40ADA595E530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E69DDD-278D-4954-9EAA-40ADA595E530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4564EAF-0371-467F-B312-9995BB14040E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4564EAF-0371-467F-B312-9995BB14040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4564EAF-0371-467F-B312-9995BB14040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4564EAF-0371-467F-B312-9995BB14040E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
